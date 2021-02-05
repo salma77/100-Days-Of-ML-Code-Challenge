@@ -7,3 +7,15 @@ Today, I started learning about Machine learning theory, it requires so many kno
 Today, I started learning about NLP. I joined the Deeplearning.ai specialization of NLP, it seemed easy to understand. I also opened a tutorial provided by Freecodecamp and edureka to start learning about basic NLP concepts such as Lemmetization and Stemming.
 ## Day 4
 Today, I followed along a tutorial that build an RNN LSTM model to predict Gamestop stock prices, it seemed cool, I installed tensorflow for the first time. I also found out about this cool AI auto completion plugin that works on jupyter lab and python, it's called kite. I read a little bit of the book "Hands-on Machine Learning using Scikit learn, Keras, and tensorflow, it's amazing that I understand things, since I was nervous about reading my first technical book.
+## Day 5
+I tried to use a DL model to automate a car to drive itself.
+## Day 6
+Reading my ML book, reached Chapter 2 now
+## Day 7
+I moved forward in an NLP course which is part of the NLP specialization offered by deeplearning.ai on Coursera
+## Day 8 
+Finished weeks 2 and 3 in the NLP course
+## Day 9
+I was accepted in a program called FWD Egypt which is a mix of data visualization and other data-related topics
+## Day 10
+I read a little in hand on ML, still in chapter 2 though
