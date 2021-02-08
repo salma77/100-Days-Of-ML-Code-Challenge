@@ -24,4 +24,4 @@ Still in chapter 2 and I feel like a turtle! I'm happy I'm learning though.
 ## Day 12
 Finished chapter 2 and started chapter 3 (almost finished!)
 ## Day 13 
-Worked on my upcoming data analysis project! I don't like it so much when I'm analyzing data and visualizing it without this being a step to prepare the data for a machine learning model later on. Data science is great and all but without machine learning it's not fun for me.
+Worked on my upcoming (data analysis project)[https://github.com/salma77/Investigating-data-from-TMDb]! I don't like it so much when I'm analyzing data and visualizing it without this being a step to prepare the data for a machine learning model later on. Data science is great and all but without machine learning it's not fun for me.
