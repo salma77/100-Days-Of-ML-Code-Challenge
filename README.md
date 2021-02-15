@@ -25,3 +25,19 @@ Still in chapter 2 and I feel like a turtle! I'm happy I'm learning though.
 Finished chapter 2 and started chapter 3 (almost finished!)
 ## Day 13 
 Worked on my upcoming [data analysis project](https://github.com/salma77/Investigating-data-from-TMDb)! I don't like it so much when I'm analyzing data and visualizing it without this being a step to prepare the data for a machine learning model later on. Data science is great and all but without machine learning it's not fun for me.
+## Day 14
+Worked on my data analysis project! I reached the questions I want to answer and I'm on it!!
+## Day 15
+Still working on my project but I'm a little bored :P I devised a strategy to analyze my data, I decided to divide my analyses into Movie analysis, Genres analysis, Budget & Revenues analysis, and Directors & Production Companies analysis.
+## Day 16
+Started chapter 4 in the book
+## Day 17
+Again worked on my data analysis mini but never ending project
+## Day 18
+Finished the data analysis project, I need to wrap up the report and submit it quickly before the deadline!
+## Day 19
+Started my lessons on my data analysis advanced nano degree on Udacity, it was about descriptive statistics, looks fun! However, final exams are coming up so I'm dragging myself to work on something beside studying
+## Day 20
+Worked on finalizing my project, watched a couple of videos on Udacity classroom
+## Day 21
+I wrapped up my project and sumbitted it! I also spend a lot of time on Udacity classroom, I learned more about descriptive statistics, all were not new to me but it felt good to recap and connect all the knowledge in one place, the instructor Josh Bernhard is great! He emphasizes the information in a non shallow way that I like.
