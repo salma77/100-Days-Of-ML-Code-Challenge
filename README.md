@@ -19,3 +19,9 @@ Finished weeks 2 and 3 in the NLP course
 I was accepted in a program called FWD Egypt which is a mix of data visualization and other data-related topics
 ## Day 10
 I read a little in hand on ML, still in chapter 2 though
+## Day 11
+Still in chapter 2 and I feel like a turtle! I'm happy I'm learning though.
+## Day 12
+Finished chapter 2 and started chapter 3 (almost finished!)
+## Day 13 
+Worked on my upcoming [data analysis project](https://github.com/salma77/Investigating-data-from-TMDb)! I don't like it so much when I'm analyzing data and visualizing it without this being a step to prepare the data for a machine learning model later on. Data science is great and all but without machine learning it's not fun for me.
