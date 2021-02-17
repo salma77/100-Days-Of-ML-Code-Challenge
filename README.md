@@ -41,3 +41,9 @@ Started my lessons on my data analysis advanced nano degree on Udacity, it was a
 Worked on finalizing my project, watched a couple of videos on Udacity classroom
 ## Day 21
 I wrapped up my project and sumbitted it! I also spend a lot of time on Udacity classroom, I learned more about descriptive statistics, all were not new to me but it felt good to recap and connect all the knowledge in one place, the instructor Josh Bernhard is great! He emphasizes the information in a non shallow way that I like.
+
+## Day 22
+Read [this cool article](https://machinelearningmastery.com/function-optimization-with-scipy/?__s=fvcxrqrofzeg7arqwfjy)! I also read a few pages in chapter 4 in hands-on, I read about gradient descent and I searched more on function optimizations.
+
+## Day 23
+I updated my Udacity project for resubmission! I also found a new data science book and read through the first pages of it, I really liked it, however I'll refrain from beginning in it as I want to finish hands-on efficiently first. I also watched a few videos in my advanced data analysis nano degree.
