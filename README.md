@@ -47,3 +47,6 @@ Read [this cool article](https://machinelearningmastery.com/function-optimizatio
 
 ## Day 23
 I updated my Udacity project for resubmission! I also found a new data science book and read through the first pages of it, I really liked it, however I'll refrain from beginning in it as I want to finish hands-on efficiently first. I also watched a few videos in my advanced data analysis nano degree.
+
+## Day 24
+I read some time in chapter 4 in hands on. I had an online session for my Udacity nano degree, inwhich I worked with a team to analyze the titanic dataset. I also spend some time reading my project review! I got a great review, it was so dense and detailed that I wanted to edit the project further more. 
