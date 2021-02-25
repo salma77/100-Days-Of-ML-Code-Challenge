@@ -50,3 +50,21 @@ I updated my Udacity project for resubmission! I also found a new data science b
 
 ## Day 24
 I read some time in chapter 4 in hands on. I had an online session for my Udacity nano degree, inwhich I worked with a team to analyze the titanic dataset. I also spend some time reading my project review! I got a great review, it was so dense and detailed that I wanted to edit the project further more. 
+
+## Day 25
+I spend some time studying in my data analytics nano degree on udacity.
+
+## Day 26
+I finished Chapter 4 in hands-on, I also studied statistics.
+
+## Day 27
+Again the nano degree, I applied some probability concepts (such as Bayes' rule) using python
+
+## Day 28
+I worked on a sentiment analysis NLP model which analyzes tweets and predicts whether they're happy, sad, or neutral.
+
+## Day 29
+I took a codility test for dell's C(4F)2 AI hackathon, it was a regression prediction task, I had fun!
+
+## Day 30
+Every Thursday, I have a connect session for the Udacity nano degree, I learn a few things and apply what I learn in a team of about 4 members, it's not much technical knowledge, however I learn from the expertise of the session conductor, the questions of the participants, and working in a team.
