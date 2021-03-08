@@ -41,3 +41,30 @@ Started my lessons on my data analysis advanced nano degree on Udacity, it was a
 Worked on finalizing my project, watched a couple of videos on Udacity classroom
 ## Day 21
 I wrapped up my project and sumbitted it! I also spend a lot of time on Udacity classroom, I learned more about descriptive statistics, all were not new to me but it felt good to recap and connect all the knowledge in one place, the instructor Josh Bernhard is great! He emphasizes the information in a non shallow way that I like.
+
+## Day 22
+Read [this cool article](https://machinelearningmastery.com/function-optimization-with-scipy/?__s=fvcxrqrofzeg7arqwfjy)! I also read a few pages in chapter 4 in hands-on, I read about gradient descent and I searched more on function optimizations.
+
+## Day 23
+I updated my Udacity project for resubmission! I also found a new data science book and read through the first pages of it, I really liked it, however I'll refrain from beginning in it as I want to finish hands-on efficiently first. I also watched a few videos in my advanced data analysis nano degree.
+
+## Day 24
+I read some time in chapter 4 in hands on. I had an online session for my Udacity nano degree, inwhich I worked with a team to analyze the titanic dataset. I also spend some time reading my project review! I got a great review, it was so dense and detailed that I wanted to edit the project further more. 
+
+## Day 25
+I spend some time studying in my data analytics nano degree on udacity.
+
+## Day 26
+I finished Chapter 4 in hands-on, I also studied statistics.
+
+## Day 27
+Again the nano degree, I applied some probability concepts (such as Bayes' rule) using python
+
+## Day 28
+I worked on a sentiment analysis NLP model which analyzes tweets and predicts whether they're happy, sad, or neutral.
+
+## Day 29
+I took a codility test for dell's C(4F)2 AI hackathon, it was a regression prediction task, I had fun!
+
+## Day 30
+Every Thursday, I have a connect session for the Udacity nano degree, I learn a few things and apply what I learn in a team of about 4 members, it's not much technical knowledge, however I learn from the expertise of the session conductor, the questions of the participants, and working in a team.
